@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #eef;
+}
+
+.map-container img {
+  width: 80%;
+  cursor: pointer;
+}
+
+#infoBox {
+  margin-top: 20px;
+  padding: 10px;
+  background: white;
+  display: inline-block;
+}
